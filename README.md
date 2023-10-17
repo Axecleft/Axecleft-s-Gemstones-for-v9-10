@@ -1,2 +1,1 @@
-# Axecleft-s-Gemstones-for-v9-10
-A collection of gemstones from 3.5 SRD
+I have gathered a collection of the gemstones included with the Dungeons and Dragons 3.5 SRD system.
